@@ -1,0 +1,22 @@
+[
+    {
+        "skill" : "C/C++",
+        "percent" : 70
+    },
+    {
+        "skill" : "Java Core",
+        "percent" : 80
+    },
+    {
+        "skill" : "SQL",
+        "percent" : 75
+    },
+    {
+        "skill" : "Auto CAD",
+        "percent" : 60
+    },
+    {
+        "skill" : "Android",
+        "percent" : 70
+    }
+]

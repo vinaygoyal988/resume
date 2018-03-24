@@ -1,0 +1,14 @@
+[
+    {
+        "language" : "English",
+        "percent" : 60
+    },
+    {
+        "language" : "Hindi",
+        "percent" : 100
+    },
+    {
+        "language" : "Punjabi",
+        "percent" : 100
+    }
+]

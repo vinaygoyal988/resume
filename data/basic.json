@@ -1,0 +1,13 @@
+{
+    "avatar" : "vinay.jpg",
+    "name" : "Vinay Goyal",
+    "work" : "Software Engineer",
+    "address" : "House No. #32839, Paras Ram Nagar, Bathinda",
+    "email" : "vinaygoyal988@gmail.com",
+    "mobiles" : [
+        {
+            "country" : "in",
+            "number" : "+91-9041444850"
+        }
+    ]
+}
